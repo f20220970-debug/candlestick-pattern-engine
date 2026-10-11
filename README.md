@@ -13,6 +13,7 @@ Detects 12 classic candlestick patterns on daily futures prices (crude oil, gold
 - Only 2 of 108 pattern/instrument/horizon tests passed |t| >= 2, fewer than the ~5 expected by chance: no reliable stand-alone edge.
 - Bullish patterns were followed by up-moves ~52% of the time vs a 54-55% base rate; the largest edges came from patterns with fewer than 25 signals.
 - Data checks dropped 34 impossible candles; unusually frequent gold marubozus point to source data issues.
+- Sensitivity check (`src/sensitivity.py`): at stricter and looser thresholds and with a relative "long body" rule, 0-3 tests passed per setting (vs ~5-6 expected by chance) and none survived Bonferroni or Benjamini-Hochberg correction.
 
 ## Patterns and rules
 Candle anatomy: body = |close - open|, range = high - low, upper/lower shadows. Thresholds live in `src/config.py`.
