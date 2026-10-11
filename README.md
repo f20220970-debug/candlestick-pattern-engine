@@ -1,0 +1,1 @@
+# candlestick-pattern-engine
