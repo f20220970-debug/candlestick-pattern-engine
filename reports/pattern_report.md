@@ -3,12 +3,12 @@
 ## 1. Data
 | instrument | source | candles | from | to | invalid_dropped |
 | --- | --- | --- | --- | --- | --- |
-| WTI Crude Oil | Yahoo | 4216 | 2010-01-04 | 2026-10-09 | 2 |
-| Gold | Yahoo | 4193 | 2010-01-04 | 2026-10-09 | 25 |
-| E-mini S&P 500 | Yahoo | 4217 | 2010-01-04 | 2026-10-09 | 2 |
-| 10-Year T-Note | Yahoo | 4212 | 2010-01-04 | 2026-10-09 | 5 |
+| WTI Crude Oil | Yahoo | 4217 | 2010-01-04 | 2026-10-12 | 2 |
+| Gold | Yahoo | 4194 | 2010-01-04 | 2026-10-12 | 25 |
+| E-mini S&P 500 | Yahoo | 4218 | 2010-01-04 | 2026-10-12 | 2 |
+| 10-Year T-Note | Yahoo | 4213 | 2010-01-04 | 2026-10-12 | 5 |
 
-16,838 daily candles labelled; 4,436 directional pattern signals (excluding doji).
+16,842 daily candles labelled; 4,436 directional pattern signals (excluding doji).
 
 ## 2. Pattern counts
 | pattern | WTI Crude Oil | Gold | E-mini S&P 500 | 10-Year T-Note |

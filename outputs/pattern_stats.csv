@@ -1,52 +1,52 @@
 instrument,pattern,horizon_days,signals,avg_fwd_return_pct,all_days_avg_pct,hit_rate_pct,base_rate_pct,edge_pp,t_stat,significant
-WTI Crude Oil,doji,1,428,-0.079,0.037,50.7,52.1,-1.4,-0.92,False
-WTI Crude Oil,hammer,1,106,0.473,0.037,56.6,52.1,4.5,1.73,False
+WTI Crude Oil,doji,1,428,-0.079,0.037,50.7,52.1,-1.4,-0.93,False
+WTI Crude Oil,hammer,1,107,0.49,0.037,57.0,52.1,4.9,1.8,False
 WTI Crude Oil,bullish_marubozu,1,7,-0.805,0.037,14.3,52.1,-37.8,-0.86,False
 WTI Crude Oil,bearish_marubozu,1,8,2.964,0.037,37.5,47.9,-10.4,3.19,False
 WTI Crude Oil,bullish_engulfing,1,210,-0.09,0.037,53.3,52.1,1.2,-0.71,False
-WTI Crude Oil,bearish_engulfing,1,228,0.024,0.037,46.1,47.9,-1.8,-0.07,False
-WTI Crude Oil,bullish_harami,1,189,-0.341,0.037,48.7,52.1,-3.4,-2.0,False
-WTI Crude Oil,bearish_harami,1,145,-0.18,0.037,50.3,47.9,2.5,-1.0,False
+WTI Crude Oil,bearish_engulfing,1,228,0.024,0.037,46.1,47.9,-1.8,-0.08,False
+WTI Crude Oil,bullish_harami,1,189,-0.341,0.037,48.7,52.1,-3.5,-2.0,False
+WTI Crude Oil,bearish_harami,1,145,-0.18,0.037,50.3,47.9,2.5,-1.01,False
 WTI Crude Oil,morning_star,1,78,0.029,0.037,46.2,52.1,-6.0,-0.03,False
 WTI Crude Oil,evening_star,1,59,0.916,0.037,33.9,47.9,-14.0,2.6,False
 WTI Crude Oil,three_white_soldiers,1,5,1.197,0.037,60.0,52.1,7.9,1.0,False
 WTI Crude Oil,three_black_crows,1,5,-1.347,0.037,80.0,47.9,32.1,-1.19,False
-WTI Crude Oil,doji,5,427,0.449,0.174,57.1,52.1,5.0,0.98,False
-WTI Crude Oil,hammer,5,106,1.207,0.174,53.8,52.1,1.6,1.84,False
-WTI Crude Oil,bullish_marubozu,5,7,-1.356,0.174,42.9,52.1,-9.3,-0.7,False
-WTI Crude Oil,bearish_marubozu,5,8,3.916,0.174,50.0,47.9,2.1,1.83,False
-WTI Crude Oil,bullish_engulfing,5,210,-0.257,0.174,50.5,52.1,-1.6,-1.08,False
-WTI Crude Oil,bearish_engulfing,5,227,0.305,0.174,45.4,47.9,-2.5,0.34,False
-WTI Crude Oil,bullish_harami,5,189,-0.296,0.174,50.8,52.1,-1.3,-1.12,False
-WTI Crude Oil,bearish_harami,5,145,0.248,0.174,50.3,47.9,2.5,0.16,False
-WTI Crude Oil,morning_star,5,78,0.525,0.174,51.3,52.1,-0.8,0.54,False
-WTI Crude Oil,evening_star,5,59,1.709,0.174,40.7,47.9,-7.2,2.04,False
-WTI Crude Oil,three_white_soldiers,5,5,0.44,0.174,40.0,52.1,-12.1,0.1,False
-WTI Crude Oil,three_black_crows,5,5,1.316,0.174,40.0,47.9,-7.9,0.44,False
+WTI Crude Oil,doji,5,427,0.449,0.175,57.1,52.1,5.0,0.98,False
+WTI Crude Oil,hammer,5,106,1.207,0.175,53.8,52.1,1.6,1.84,False
+WTI Crude Oil,bullish_marubozu,5,7,-1.356,0.175,42.9,52.1,-9.3,-0.7,False
+WTI Crude Oil,bearish_marubozu,5,8,3.916,0.175,50.0,47.9,2.1,1.83,False
+WTI Crude Oil,bullish_engulfing,5,210,-0.257,0.175,50.5,52.1,-1.7,-1.08,False
+WTI Crude Oil,bearish_engulfing,5,227,0.305,0.175,45.4,47.9,-2.5,0.34,False
+WTI Crude Oil,bullish_harami,5,189,-0.296,0.175,50.8,52.1,-1.3,-1.12,False
+WTI Crude Oil,bearish_harami,5,145,0.248,0.175,50.3,47.9,2.5,0.15,False
+WTI Crude Oil,morning_star,5,78,0.525,0.175,51.3,52.1,-0.9,0.54,False
+WTI Crude Oil,evening_star,5,59,1.709,0.175,40.7,47.9,-7.2,2.04,False
+WTI Crude Oil,three_white_soldiers,5,5,0.44,0.175,40.0,52.1,-12.1,0.1,False
+WTI Crude Oil,three_black_crows,5,5,1.316,0.175,40.0,47.9,-7.9,0.44,False
 WTI Crude Oil,doji,10,427,0.437,0.353,54.1,53.8,0.3,0.21,False
 WTI Crude Oil,hammer,10,106,1.348,0.353,50.0,53.8,-3.8,1.26,False
-WTI Crude Oil,bullish_marubozu,10,7,0.138,0.353,42.9,53.8,-10.9,-0.07,False
+WTI Crude Oil,bullish_marubozu,10,7,0.138,0.353,42.9,53.8,-11.0,-0.07,False
 WTI Crude Oil,bearish_marubozu,10,8,1.615,0.353,50.0,46.2,3.8,0.44,False
 WTI Crude Oil,bullish_engulfing,10,210,0.041,0.353,55.7,53.8,1.9,-0.55,False
 WTI Crude Oil,bearish_engulfing,10,227,0.305,0.353,44.5,46.2,-1.7,-0.09,False
-WTI Crude Oil,bullish_harami,10,189,-0.571,0.353,50.3,53.8,-3.5,-1.56,False
+WTI Crude Oil,bullish_harami,10,189,-0.571,0.353,50.3,53.8,-3.6,-1.56,False
 WTI Crude Oil,bearish_harami,10,145,0.167,0.353,51.0,46.2,4.8,-0.27,False
 WTI Crude Oil,morning_star,10,78,0.011,0.353,48.7,53.8,-5.1,-0.37,False
 WTI Crude Oil,evening_star,10,59,1.558,0.353,30.5,46.2,-15.7,1.14,False
 WTI Crude Oil,three_white_soldiers,10,5,1.666,0.353,60.0,53.8,6.2,0.36,False
 WTI Crude Oil,three_black_crows,10,5,3.634,0.353,40.0,46.2,-6.2,0.9,False
-Gold,doji,1,493,0.057,0.038,54.2,52.6,1.6,0.39,False
-Gold,hammer,1,105,-0.197,0.038,49.5,52.6,-3.1,-2.21,False
-Gold,bullish_marubozu,1,129,-0.003,0.038,50.4,52.6,-2.2,-0.42,False
-Gold,bearish_marubozu,1,137,0.073,0.038,45.3,47.4,-2.2,0.38,False
-Gold,bullish_engulfing,1,149,0.041,0.038,53.0,52.6,0.4,0.04,False
-Gold,bearish_engulfing,1,188,-0.003,0.038,48.9,47.4,1.5,-0.52,False
-Gold,bullish_harami,1,162,-0.018,0.038,52.5,52.6,-0.1,-0.65,False
-Gold,bearish_harami,1,138,0.04,0.038,39.1,47.4,-8.3,0.02,False
-Gold,morning_star,1,84,0.092,0.038,45.2,52.6,-7.3,0.46,False
-Gold,evening_star,1,73,-0.023,0.038,49.3,47.4,1.9,-0.48,False
-Gold,three_white_soldiers,1,3,-0.096,0.038,66.7,52.6,14.1,-0.21,False
-Gold,three_black_crows,1,5,-0.597,0.038,60.0,47.4,12.6,-1.31,False
+Gold,doji,1,493,0.057,0.037,54.2,52.6,1.6,0.39,False
+Gold,hammer,1,105,-0.197,0.037,49.5,52.6,-3.0,-2.21,False
+Gold,bullish_marubozu,1,129,-0.003,0.037,50.4,52.6,-2.2,-0.42,False
+Gold,bearish_marubozu,1,137,0.073,0.037,45.3,47.4,-2.2,0.38,False
+Gold,bullish_engulfing,1,149,0.041,0.037,53.0,52.6,0.5,0.04,False
+Gold,bearish_engulfing,1,188,-0.003,0.037,48.9,47.4,1.5,-0.52,False
+Gold,bullish_harami,1,162,-0.018,0.037,52.5,52.6,-0.1,-0.65,False
+Gold,bearish_harami,1,138,0.04,0.037,39.1,47.4,-8.3,0.02,False
+Gold,morning_star,1,84,0.092,0.037,45.2,52.6,-7.3,0.46,False
+Gold,evening_star,1,73,-0.023,0.037,49.3,47.4,1.9,-0.48,False
+Gold,three_white_soldiers,1,3,-0.096,0.037,66.7,52.6,14.1,-0.21,False
+Gold,three_black_crows,1,5,-0.597,0.037,60.0,47.4,12.6,-1.31,False
 Gold,doji,5,493,0.255,0.184,56.2,55.0,1.2,0.67,False
 Gold,hammer,5,105,-0.095,0.184,53.3,55.0,-1.6,-1.21,False
 Gold,bullish_marubozu,5,129,0.131,0.184,50.4,55.0,-4.6,-0.26,False
@@ -71,20 +71,20 @@ Gold,morning_star,10,84,0.587,0.365,54.8,54.5,0.2,0.63,False
 Gold,evening_star,10,73,0.307,0.365,45.2,45.5,-0.3,-0.15,False
 Gold,three_white_soldiers,10,3,-1.898,0.365,33.3,54.5,-21.2,-1.21,False
 Gold,three_black_crows,10,5,1.233,0.365,40.0,45.5,-5.5,0.6,False
-E-mini S&P 500,doji,1,487,0.091,0.052,56.5,54.3,2.1,0.79,False
-E-mini S&P 500,hammer,1,102,-0.058,0.052,50.0,54.3,-4.3,-1.02,False
-E-mini S&P 500,bullish_marubozu,1,36,0.125,0.052,52.8,54.3,-1.6,0.41,False
-E-mini S&P 500,bearish_marubozu,1,10,-0.38,0.052,70.0,45.7,24.3,-1.26,False
-E-mini S&P 500,bullish_engulfing,1,287,-0.028,0.052,55.1,54.3,0.7,-1.25,False
-E-mini S&P 500,bearish_engulfing,1,233,-0.031,0.052,44.2,45.7,-1.5,-1.17,False
-E-mini S&P 500,bullish_harami,1,123,0.012,0.052,55.3,54.3,0.9,-0.41,False
-E-mini S&P 500,bearish_harami,1,175,0.038,0.052,42.9,45.7,-2.8,-0.17,False
-E-mini S&P 500,morning_star,1,71,-0.107,0.052,49.3,54.3,-5.0,-1.23,False
-E-mini S&P 500,evening_star,1,82,-0.031,0.052,51.2,45.7,5.6,-0.69,False
-E-mini S&P 500,three_white_soldiers,1,11,0.188,0.052,63.6,54.3,9.3,0.42,False
-E-mini S&P 500,three_black_crows,1,2,-0.936,0.052,50.0,45.7,4.3,-1.29,False
-E-mini S&P 500,doji,5,487,0.349,0.255,61.0,60.3,0.7,0.93,False
-E-mini S&P 500,hammer,5,102,0.215,0.255,56.9,60.3,-3.4,-0.18,False
+E-mini S&P 500,doji,1,487,0.091,0.052,56.5,54.4,2.1,0.79,False
+E-mini S&P 500,hammer,1,102,-0.058,0.052,50.0,54.4,-4.4,-1.02,False
+E-mini S&P 500,bullish_marubozu,1,36,0.125,0.052,52.8,54.4,-1.6,0.41,False
+E-mini S&P 500,bearish_marubozu,1,10,-0.38,0.052,70.0,45.6,24.4,-1.26,False
+E-mini S&P 500,bullish_engulfing,1,287,-0.028,0.052,55.1,54.4,0.7,-1.25,False
+E-mini S&P 500,bearish_engulfing,1,233,-0.031,0.052,44.2,45.6,-1.4,-1.17,False
+E-mini S&P 500,bullish_harami,1,123,0.012,0.052,55.3,54.4,0.9,-0.41,False
+E-mini S&P 500,bearish_harami,1,175,0.038,0.052,42.9,45.6,-2.8,-0.17,False
+E-mini S&P 500,morning_star,1,71,-0.107,0.052,49.3,54.4,-5.1,-1.23,False
+E-mini S&P 500,evening_star,1,82,-0.031,0.052,51.2,45.6,5.6,-0.69,False
+E-mini S&P 500,three_white_soldiers,1,11,0.188,0.052,63.6,54.4,9.3,0.42,False
+E-mini S&P 500,three_black_crows,1,2,-0.936,0.052,50.0,45.6,4.4,-1.29,False
+E-mini S&P 500,doji,5,487,0.349,0.255,61.0,60.3,0.7,0.92,False
+E-mini S&P 500,hammer,5,102,0.215,0.255,56.9,60.3,-3.5,-0.18,False
 E-mini S&P 500,bullish_marubozu,5,36,0.556,0.255,63.9,60.3,3.6,0.81,False
 E-mini S&P 500,bearish_marubozu,5,10,1.099,0.255,20.0,39.7,-19.7,1.2,False
 E-mini S&P 500,bullish_engulfing,5,287,-0.022,0.255,54.7,60.3,-5.6,-2.1,False
@@ -107,9 +107,9 @@ E-mini S&P 500,morning_star,10,71,0.021,0.505,59.2,63.2,-4.0,-1.35,False
 E-mini S&P 500,evening_star,10,82,0.644,0.505,36.6,36.8,-0.2,0.42,False
 E-mini S&P 500,three_white_soldiers,10,11,0.902,0.505,72.7,63.2,9.5,0.44,False
 E-mini S&P 500,three_black_crows,10,2,-0.627,0.505,50.0,36.8,13.2,-0.53,False
-10-Year T-Note,doji,1,404,0.026,-0.002,51.7,49.7,2.0,1.64,False
+10-Year T-Note,doji,1,404,0.026,-0.002,51.7,49.7,2.0,1.65,False
 10-Year T-Note,hammer,1,94,-0.01,-0.002,44.7,49.7,-5.0,-0.23,False
-10-Year T-Note,bullish_marubozu,1,17,-0.091,-0.002,41.2,49.7,-8.6,-1.07,False
+10-Year T-Note,bullish_marubozu,1,17,-0.091,-0.002,41.2,49.7,-8.5,-1.07,False
 10-Year T-Note,bearish_marubozu,1,35,0.065,-0.002,40.0,50.3,-10.3,1.15,False
 10-Year T-Note,bullish_engulfing,1,264,0.006,-0.002,50.0,49.7,0.3,0.35,False
 10-Year T-Note,bearish_engulfing,1,223,-0.006,-0.002,49.8,50.3,-0.5,-0.17,False
@@ -120,26 +120,26 @@ E-mini S&P 500,three_black_crows,10,2,-0.627,0.505,50.0,36.8,13.2,-0.53,False
 10-Year T-Note,three_white_soldiers,1,3,-0.085,-0.002,33.3,49.7,-16.4,-0.42,False
 10-Year T-Note,three_black_crows,1,7,-0.307,-0.002,85.7,50.3,35.4,-2.36,False
 10-Year T-Note,doji,5,403,0.03,-0.01,51.9,49.8,2.0,1.08,False
-10-Year T-Note,hammer,5,94,-0.063,-0.01,44.7,49.8,-5.1,-0.7,False
+10-Year T-Note,hammer,5,94,-0.063,-0.01,44.7,49.8,-5.2,-0.7,False
 10-Year T-Note,bullish_marubozu,5,17,-0.222,-0.01,23.5,49.8,-26.3,-1.18,False
 10-Year T-Note,bearish_marubozu,5,35,-0.266,-0.01,65.7,50.2,15.5,-2.05,True
 10-Year T-Note,bullish_engulfing,5,264,-0.035,-0.01,49.2,49.8,-0.6,-0.56,False
 10-Year T-Note,bearish_engulfing,5,223,0.013,-0.01,47.5,50.2,-2.6,0.46,False
-10-Year T-Note,bullish_harami,5,144,-0.186,-0.01,39.6,49.8,-10.2,-2.86,False
+10-Year T-Note,bullish_harami,5,144,-0.186,-0.01,39.6,49.8,-10.3,-2.87,False
 10-Year T-Note,bearish_harami,5,165,0.08,-0.01,43.6,50.2,-6.5,1.55,False
-10-Year T-Note,morning_star,5,67,-0.15,-0.01,44.8,49.8,-5.0,-1.56,False
+10-Year T-Note,morning_star,5,67,-0.15,-0.01,44.8,49.8,-5.1,-1.56,False
 10-Year T-Note,evening_star,5,71,-0.091,-0.01,43.7,50.2,-6.5,-0.93,False
 10-Year T-Note,three_white_soldiers,5,3,-0.016,-0.01,33.3,49.8,-16.5,-0.02,False
-10-Year T-Note,three_black_crows,5,7,-0.705,-0.01,85.7,50.2,35.5,-2.48,False
+10-Year T-Note,three_black_crows,5,7,-0.705,-0.01,85.7,50.2,35.5,-2.49,False
 10-Year T-Note,doji,10,402,0.011,-0.02,54.0,49.7,4.3,0.6,False
 10-Year T-Note,hammer,10,94,-0.174,-0.02,43.6,49.7,-6.1,-1.45,False
 10-Year T-Note,bullish_marubozu,10,17,-0.202,-0.02,35.3,49.7,-14.4,-0.73,False
 10-Year T-Note,bearish_marubozu,10,35,-0.363,-0.02,62.9,50.3,12.6,-1.97,False
 10-Year T-Note,bullish_engulfing,10,264,-0.033,-0.02,50.0,49.7,0.3,-0.21,False
-10-Year T-Note,bearish_engulfing,10,222,-0.042,-0.02,50.9,50.3,0.6,-0.31,False
+10-Year T-Note,bearish_engulfing,10,223,-0.041,-0.02,50.7,50.3,0.4,-0.31,False
 10-Year T-Note,bullish_harami,10,144,-0.269,-0.02,42.4,49.7,-7.4,-2.91,False
 10-Year T-Note,bearish_harami,10,165,0.051,-0.02,43.6,50.3,-6.6,0.89,False
-10-Year T-Note,morning_star,10,67,-0.245,-0.02,44.8,49.7,-4.9,-1.79,False
+10-Year T-Note,morning_star,10,67,-0.245,-0.02,44.8,49.7,-5.0,-1.79,False
 10-Year T-Note,evening_star,10,71,-0.136,-0.02,46.5,50.3,-3.8,-0.95,False
 10-Year T-Note,three_white_soldiers,10,3,0.298,-0.02,100.0,49.7,50.3,0.54,False
-10-Year T-Note,three_black_crows,10,7,-1.343,-0.02,71.4,50.3,21.1,-3.41,False
+10-Year T-Note,three_black_crows,10,7,-1.343,-0.02,71.4,50.3,21.2,-3.41,False
